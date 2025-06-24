@@ -26,3 +26,4 @@ Reward shaping accelerates learning compared to vanilla sparse rewards.
 The dueling architecture shows faster convergence than standard DQN implementations.
 
 ![image](https://github.com/user-attachments/assets/c53ad6f4-be71-4a32-862e-bba1ce0a4e39)
+![image](https://github.com/user-attachments/assets/0f328fac-7d91-4419-8c88-0250f77bb19c)
