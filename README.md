@@ -24,3 +24,5 @@ Batch size of 64 with replay buffer capacity of 20,000 experiences.
 CartPole-v1 consistently solved in 100-120 episodes across multiple runs.
 Reward shaping accelerates learning compared to vanilla sparse rewards.
 The dueling architecture shows faster convergence than standard DQN implementations.
+
+![image](https://github.com/user-attachments/assets/c53ad6f4-be71-4a32-862e-bba1ce0a4e39)
